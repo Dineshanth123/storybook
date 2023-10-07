@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="home">
+      <marquee behavior="" direction="right"
+        ><h1><b>STORY TIME!!!</b></h1></marquee
+      >
+      <button
+        class="btn1"
+        id="bt1"
+        onclick="window.location.href='index3.html'"
+      >
+        Horror
+      </button>
+      <button
+        class="btn1"
+        id="bt2"
+        onclick="window.location.href='index6.html'"
+      >
+        Mystery
+      </button>
+      <br />
+      <br />
+      <br />
+      <marquee class="nun" direction="alternate"
+        ><h1><b>WELCOME HOME!!!</b></h1></marquee
+      >
+    </div>
+
+    <!-- <script>
+      function display() {
+        document.getElementById("bt1").innerHTML = "hello";
+      }
+    </script> -->
+  </body>
+</html>

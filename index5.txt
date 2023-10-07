@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style5.css" />
+  </head>
+  <body>
+    <div class="box">
+      <div class="box1">
+        <h1 class="boxx1">The Haunting Of Hill House</h1>
+      </div>
+      <div>
+        <button class="bv" onclick="audio.play();">Audio</button>
+      </div>
+
+      <div class="box2">
+        <p class="pp">
+          We lose people all the time. It’s just the nature of the job. What can
+          you expect from a place full of nooks and crannies people
+          intentionally go to get lost in? I usually don’t worry when I don’t
+          see someone for a while, but when it’s been days since someone’s
+          checked out, it’s usually a sign that I need to step in. I’m not doing
+          this alone, thankfully. No Librarian is ever truly alone, are they? I
+          have help from the Watchers and Listeners of the shelves. Thanks to
+          them, it usually doesn’t take long to get the scent, if you know what
+          I mean. However, today is one of the rare, and unfortunate, exceptions
+          when my search has exceeded more than an hour—and an hour is pushing
+          it. I’ve been searching and asking around for almost six hours,
+          scouring shelves and listening for the telltale breathing. The
+          Watchers have their quadrants, so it’s much like playing hot and cold.
+          “Bad news.” One says, and my brain shivers in my skull, both from its
+          existence and its statement. “They crossed the tape.” Says the
+          Watcher, and I groan.
+        </p>
+      </div>
+      <div class="box3">
+        <p class="pp">
+          “Are you sure?” My stomach still drops at the thought, even though
+          I’ve been doing this a very long time (long enough that I remember
+          every book on every shelf better than my own child’s face), but
+          knowing a poor soul lost themselves beyond the tape… I grieve for
+          them. The Watcher doesn’t speak, but generates an affirmative
+          sensation. That means I have to backtrack to my desk for supplies. I
+          thank them, asking that they send word ahead of my arrival. It’s been
+          a while since I’ve had to go past the tape, which means it’s been a
+          while since I entered the broom closet. The helmet is dusty (it looks
+          almost like it’s from one of those old-fashioned scuba diving suits.
+          It’s not nearly so heavy, though.) There’s a bright lamp affixed to
+          the front just above the visor, but it’s as much of a hindrance as a
+          help. While, most of the time, those beyond the tape know not to
+          bother me, some still get bored enough to try—and the lamp acts like a
+          beacon. I don’t blame them, it’s what prisoners do. Find the weakest
+          among them and test their mettle.
+        </p>
+      </div>
+      <div class="box4">
+        <p class="pp">
+          I’ve got a sack full of non-perishables, tinctures, aspirin, and a
+          compass (not like the kind you’re used to, but would take too long to
+          explain—and time is of the essence, so I’ll let your imagination
+          handle it from here.) I sling the sack across my body, and fasten my
+          waist with a utility belt that would make a trust fund bat character
+          with abandonment issues jealous. It’s got floss, lighters, matches,
+          and a few more tools that don’t exist outside of The Library. The last
+          thing I grab is the flamethrower. This is where I should be very
+          transparent with you. I’m not actually the Librarian. I’m the
+          Librarian’s Assistant. I know, isn’t that just your luck, right? Not
+          to worry, I’m very good at using this thing, and it does the job
+          nicely—whatever job I may deem necessary at any particular moment. But
+          the Head Librarian doesn’t really need much of anything to ward off
+          what lingers here.I don’t know exactly where he is at the moment, nor
+          do I want to know. If this were a real pickle I would summon him, but
+          while a rare occasion, it’s not unusual in the scope of a thousand
+          years. After all, no one comes here without the intention (whether
+          it’s conscious or subconscious) to get lost.
+        </p>
+      </div>
+      <div class="box5">
+        <p class="pp">
+          It’s the nature of this place. But you know that, don’t you? It’s why
+          you’re here, after all. It doesn’t take me long to find the tape,
+          which is fortuitous. Sometimes it moves around, but the Watchers and
+          Listeners kept a beat on it this time so as to direct me. Yes, it is
+          really dark.Yes, it’s literal tape. Hazard tape, but that’s almost
+          like a beacon to the adventurous, isn’t it? I think The Library knows
+          that. It’s greedy, but it’s also quite discerning in taste. In some
+          circles that means that I should extend congratulations to you… in
+          others, I offer my sincerest sympathy. I hear my name and ignore it as
+          I crawl through the crisscross of reflective strips. The tape moves
+          not at random, by the way. It genuinely serves as a warning. Whether
+          it’s gatekeeping sections currently under construction, in repair, or
+          missing. I try not to, but I think that last one has something to do
+          with where the Head Librarian went. Don’t worry about it, my name is
+          not important. So ineffectual that I’ve forgotten.
+        </p>
+      </div>
+      <div class="box6">
+        <p class="pp">
+          I hear my name again as I begrudgingly turn on the lamp. Not a lot of
+          help, just enough light to ensure I don’t trip over anything, or
+          disturb the shelves. Many sleep here. I send off a warning shot from
+          the flamethrower. Showing I carry more light than just atop my
+          appetizing head. The flash of flames sends things… slithering. But
+          most of those this close to the tape have never been very convicted by
+          nature, so I’m not concerned. There are more Listeners and less
+          Watchers past the tape, for obvious reasons. Thankfully, they say I
+          don’t have to go too far. I look down at the telling clicking sound to
+          see rocks rolling. Some as big as my foot, and some as small as the
+          tip of my thumb. The smaller ones move more easily, but all are
+          rolling as if pulled toward a central point. I don’t even need the
+          compass, but I glance down at it one more time before stuffing it back
+          into the sack. While I don’t have to go too far, things are… relative
+          here. Ten steps may be ten thousand. And so even after only a few
+          moments of exploring, I feel acute pressure jamming into my temples.
+          My heart feels like it’s being squeezed, and my vision blurs. My
+          fingers tingle by the time I’m able to shake the aspirin into my
+          mouth.
+        </p>
+      </div>
+      <div class="box7">
+        <p class="pp">
+          I chew it, ignoring the sound of my name—my true name. The one only I
+          can hear. You’ll hear your own as well, if you stay here long enough.
+          My vision clears, which just means the dark looks sharper, and I sweep
+          another warning arc from the flame thrower for good measure.I do this
+          as much because I love the sound as for protection. I also appreciate
+          the warmth. It gets cold here. But in a strange way, which shouldn’t
+          surprise you at this point. It’s cold like how the first signs of
+          spring show in the early morning dew that’s only just melted. I can
+          smell and taste the sweat on my upper lip. And it’s cold. And then I
+          hear it. A few or a thousand steps later. The breathing sound I’ve
+          been listening for.The pace of the rocks quickens, and my head is
+          turned down so the helmet light prevents me from tripping over—or
+          impeding—their journey. A famous author once said “All things serve
+          the beam”, and that’s as true in this world as it is in the others.
+          Except this beam—this beacon—is attached to our lost visitor. I can
+          only hear the rocks, mumblings, and the breathing sound now. The smell
+          is so musty and thick. Like the air is full of sweat and dust. Like
+          I’ve stuck my head out the window during a heavily falling rain. If I
+          think hard enough about it, soon I’ll be drenched.
+        </p>
+      </div>
+      <div class="box8">
+        <p class="pp">
+          So, I don’t. While the rocks are almost the perfect tell, and the
+          Listeners’ too corroborates the evidence, you can never be too sure.
+          Only light can be sure. I take a match from the tiny box, snap it to
+          life, and then blow it out. Tiny smoke tendrils curl and waft until
+          they also follow the same flow as the rocks. Excellent, we’ve not been
+          led astray. A few or a thousand more steps, and the rocks are
+          gathering down an aisle where the breathing is more like wheezing—like
+          the desperate struggle to take in. Lo and behold, we found them! Poor
+          thing, judging by the state of her, she got lost early. She’s likely
+          been here for most of the day. The book covers her face—consuming her
+          head like a kid on a particularly large popsicle. The pages flutter
+          gently against her too-white jaw. The papery quality of her skin, and
+          the wanting muscle mass, show how little time was on our side—not a
+          moment to waste. I grab the book by the edges of both back and front
+          covers, it’s got most of her head inside at this point, just her
+          earlobes, hair, and edge of her jaw peak out from beneath the pages I
+          now grip firmly. The wheezing turns into a moan that turns into a sob.
+          “Now, now.” I say, and test the hold the book has on its victim. It’s
+          snug, too snug to yank like a leech.
+        </p>
+      </div>
+      <div class="box9">
+        <p class="pp">
+          I need to treat it like a tick, making sure to get the head out. None
+          of these are intended as puns, but it just happens after being
+          surrounded by books and pros for so long.I draw one of the tiny viles
+          strapped in my utility belt and pull the cork out. It smells like
+          nothing to me, but I see the reaction immediately. Our half-consumed
+          explorer moves a bit, her fingers mostly, and I hear a second, tinier
+          moan beneath that of the book’s. I pour a small amount of the
+          substance into the palm of my hand, and I smooth it gently down the
+          spine of the book. It wails again, and so does the girl, both full of
+          sorrow and reluctance. I feel the hairs on the back of my neck stand
+          up, so I turn at the hip, cock the flamethrower, and send off a very
+          intentionally long tail of flames. When the feeling subsides, I shrug
+          the weapon back over my shoulder. I use the backs of two knuckles to
+          knock gently on the book cover, “It’s time to come back now. My
+          apologies.” I say, and I mean it. The book and the girl moan again,
+          more hollowly, and I can feel the seal—the bond—splitting like a seam.
+          I grip the book again, because these two are stubborn, and have to pry
+          them apart.
+        </p>
+      </div>
+      <div class="box10">
+        <p class="pp">
+          The color and mass return beneath her skin, and though her eyes are
+          open, they can’t see anything. She’ll be like that for a while, it’s
+          normal. She’ll recover.I pour the remaining contents of the bottle
+          down the part of her frazzled blond hair. Tears fill the empty eyes
+          and drip down her face. Her mouth presses into a thin white line and
+          grimaces so intensely that the flesh folds in multiple layers at the
+          corners of her mouth. Great pain. Even after a thousand years I still
+          can’t help but feel sorry, so I pull her burning head under my chin,
+          and rub circles into her back. “I’m sorry, dear. I know you’ve been
+          told otherwise, but this place is a prison, and that isn’t your story.
+          Yours is still being written, and the one which made you pretty
+          promises is lying and jealous.“One day you, if the world is cruel, may
+          yet have a place here. But it’s not today. So let’s go have a cup of
+          tea.” I tell her, as I’ve told many like her. I’ve gotten better at it
+          over the years. I used to have to fight with them. Often I’d give up
+          and just keep them safe until the Head Librarian got back to talk them
+          down.
+        </p>
+      </div>
+      <div class="box11">
+        <p class="pp">
+          She finally lets out a weak, wheezing breath. I take advantage of the
+          broken seam of her lips and pour a tincture down her throat. I don’t
+          even have to look anymore, I can just feel the specific melodies that
+          make each tincture different. It helps that the one I need usually
+          sings a bit louder as a courtesy, and it’ll purr like a cat when I’ve
+          touched my fingers to it. She chokes a bit, but her eyes start to
+          clear. Good enough for now. The back of my neck has another sudden
+          influx of goosebumps. We’ve overstayed our welcome. It’s time to go. I
+          put the book back on the shelf. I don’t scold it, just allow its ache
+          and frustration flow through me. I apologize, but there’s no comfort I
+          can give. My words and compassion are meaningless. I’ve noted the
+          volume and will tell the Head Librarian, they might be able to soothe
+          it back to sleep. I tap the metal bauble around my neck, and we’re
+          back at my desk.
+        </p>
+      </div>
+      <div class="box12">
+        <p class="pp">
+          I drape the girl onto a nearby loveseat that’s seen better days,
+          starting the kettle before heading to the broom closet to stash the
+          emergency kit. She’ll be fine. People like her (and you) always are.
+          This place was made to help the wanderers and recklessly imaginative.
+          Those who can’t wrap their heads around the world the way it is, and
+          can see the truth of magic between heartbeats and heartbreaks. And
+          people like me, and the Head Librarian (when they so choose to grace
+          us with their presence), keep the place orderly and open for you… and
+          we’re here to help guide you back on track if you lose inspiration for
+          your own story. It’s the nature of the job—The Library itself. What
+          else can you expect from a place full of nooks and crannies that
+          people choose to get lost in?
+        </p>
+      </div>
+      <div class="box13">
+        <h1 class="boxx13">---THE END---</h1>
+      </div>
+    </div>
+
+    <script>
+      const audio = new Audio();
+      audio.src = "./the-visitor(chosic.com).mp3";
+    </script>
+  </body>
+</html>
